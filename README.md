@@ -1,5 +1,9 @@
 # Project Symphony
 
+*One Vision. Infinite Perspectives.*
+
+---
+
 ## From Isolated AI to Coordinated Intelligence
 
 Project Symphony is an open research initiative exploring how humans and
@@ -79,3 +83,29 @@ here while remaining independent projects in their own right.
 - [Collaboration Model](docs/collaboration-model.md)
 - [Related Projects](docs/related-projects.md)
 - [Glossary](docs/glossary.md)
+
+---
+
+# Project Ecosystem
+
+### Project Recovery
+
+*Building tomorrow's recovery framework, one module at a time.*
+
+https://github.com/scmc480-ux/Project-Recovery
+
+---
+
+### Project Symphony
+
+*One Vision. Infinite Perspectives.*
+
+https://github.com/scmc480-ux/Project-Symphony
+
+---
+
+### Project Orchestra
+
+*Become the Conductor. Orchestrate Intelligence.*
+
+https://github.com/scmc480-ux/Project-Orchestra

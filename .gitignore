@@ -1,0 +1,32 @@
+# Local/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+*.local.*
+
+# Private research and runtime artifacts
+/private/
+/research-private/
+/experiments-private/
+/outputs/
+/workspace/
+/runtime/
+
+# Future build/cache folders
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Archives and generated bundles
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
